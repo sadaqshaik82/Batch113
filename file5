@@ -1,0 +1,9 @@
+git add *
+
+git status
+
+git commit -m "sample files"
+git status
+git log
+git show
+git show cid
